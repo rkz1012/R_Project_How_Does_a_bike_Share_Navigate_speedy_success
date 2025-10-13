@@ -512,43 +512,43 @@ write.csv(clean_trip_final,file = "clean_trip_final_tableau.csv",row.names = FAL
 
 -   This visualization shows the **total number of rides per day of the week for each customer type**. It appears that **casual riders** have the **highest number of rides on Saturdays and Sundays**, potentially indicating **leisurely use of the bikes on the weekends**. Meanwhile, **members** have a more **consistent number of rides throughout the week**, with slightly higher numbers on **Tuesdays and Wednesdays**. This suggests that members may primarily use the bikes for their **regular commuting needs**.
 
-![](Visualizations\Total Rides Vs WeekDays.png){width="651"}
+![](Visualizations\TotalRides_Vs_WeekDays.png){width="651"}
 
 #### 8.0.2 **Visualization 2** {#sec-8.0.2-visualization-2--}
 
 -   This plot demonstrates that **annual members tend to use the bikes more frequently during rush hour**, potentially for **commuting to and from work**. On the other hand, **casual riders show a more steady increase in usage throughout the day, with a peak at around 6pm and a steady decrease thereafter**. This suggests that casual riders may be using the bikes more **for leisure activities**. These insights provide valuable information on the **different usage patterns of annual members and casual riders**, which can inform strategies for promoting the bike share program and targeting different customer segments.
 
-![](Visualizations\Total Ride Vs Time of Day.png)
+![](Visualizations\TotalRide_Vs_TimeofDay.png)
 
 #### 8.0.3 **Visualization 3** {#sec-8.0.3-visualization-3--}
 
 -   This plot shows the **monthly usage trends of bike sharing among annual members and casual riders**. It appears that there is a **higher demand for bike usage during the summer months for both customer types**, with casual riders showing a slightly higher demand. On the other hand, the demand for bike usage among **casual riders decreases significantly in the winter months**, while **annual members continue to use the service at a relatively consistent rate throughout the year**. **This further supports our analysis that annual members may rely on the bike sharing service for their regular commute, while casual riders may use it more for leisure and recreational purposes.**
 
-![](Visualizations\Total Riders Vs Month.png){width="716"}
+![](Visualizations\Total_Riders_Vs_Month.png){width="716"}
 
 #### 8.0.4 **Visualization 4** {#sec-8.0.4-visualization-4--}
 
 -   In this plot between the **Avg. Ride duration and Week days**, It is clear that **casual riders tend to use the bike share service primarily on weekends** for leisure or recreational purposes, while **annual members use the service more consistently throughout the week**, possibly for commuting to work or other daily activities. This information could be useful for Cyclistic in terms of understanding how to target marketing efforts and **potentially adjusting pricing or membership plans to better meet the needs of these different customer groups**.
 
-![](Visualizations\Average Ride length vs Weekdays.png){width="672"}
+![](Visualizations\AverageRidelength_vs_Weekdays.png){width="672"}
 
 #### 8.0.5 **Visualization 5** {#sec-8.0.5-visualization-5--}
 
 -   To summarize, the analysis of the plot showed that annual members and casual riders use the bike-sharing service differently. **Annual members tend to use the bikes for their regular commutes, with a steadier usage throughout the week and year**. **Casual riders, on the other hand, tend to use the bikes more for leisure, with higher usage on weekends and in the summer months**. Additionally, **the average ride length for casual riders was found to be longer than that of annual members.** These findings can inform business decisions and support decision making for the bike-sharing company.
 
-![](Visualizations\Average Ride length vs Month.png){width="719"}
+![](Visualizations\Average_Ride_length_vs_Month.png){width="719"}
 
 #### 8.0.6 **Visualization 6** {#sec-8.0.6-visualization-6--}
 
 -   The analysis of bike type usage showed that **members prefer classic bikes over electric** **and docked bikes,** while **casual riders have similar usage of electric bikes and a slightly higher preference for docked bikes.** It was unclear from the data sets what exactly is meant by "docked bikes," but it is evident that this type of bike is not a popular choice for annual members as **no member used it over the year**. **Overall, both groups showed a preference for classic bikes over the other options.**
 
-![](Visualizations/TotalRiders_Vs_BikeType.png){width="537"}
+![](Visualizations\Total_Number_of_Riders_Vs_BikeType.png)
 
 #### 8.0.7 **Visualization 7** {#sec-8.0.7-visualization-7--}
 
 -   Additionally, this graph indicates that **classic bikes are the most popular choice among both members and casual riders, followed by electric bikes. Docked bikes are the least popular choice.** It is worth noting that the popularity of **classic bikes among annual members is much higher compared to casual riders**. **This could suggest that annual members have a preference for classic bikes over the other options, possibly due to their reliability and simplicity**. On the other hand, **casual riders seem to have a more balanced distribution** of bike choices, with electric bikes being a close second in popularity. Overall, **this graph provides insights into the preferences and habits of bike-sharing service users**, which could be useful for the company in terms of marketing and resource allocation.
 
-![](Visualizations\Count of Bike type Vs WeekDays.png){width="837"}
+![](Visualizations\Count_of_Biketype_Vs_WeekDays.png){width="837"}
 
 <br>
 
