@@ -542,7 +542,7 @@ write.csv(clean_trip_final,file = "clean_trip_final_tableau.csv",row.names = FAL
 
 -   The analysis of bike type usage showed that **members prefer classic bikes over electric** **and docked bikes,** while **casual riders have similar usage of electric bikes and a slightly higher preference for docked bikes.** It was unclear from the data sets what exactly is meant by "docked bikes," but it is evident that this type of bike is not a popular choice for annual members as **no member used it over the year**. **Overall, both groups showed a preference for classic bikes over the other options.**
 
-![](Visualizations/TotalRiders_Vs_BikeType.png){width="537"}
+![](Visualizations/Total Number of Riders Vs Bike Type.png){width="537"}
 
 #### 8.0.7 **Visualization 7** {#sec-8.0.7-visualization-7--}
 
