@@ -48,7 +48,7 @@ Based on the analysis, the following recommendations are made:
 - Evaluate the popularity of docked bikes and consider improvements.
 - Focus on improving classic bike fleet.
 - Consider offering longer rental periods for casual riders.
-- Increase marketing efforts during winter months.
+- Increase marketing efforts during winter months..
 
 ## Conclusion
 
