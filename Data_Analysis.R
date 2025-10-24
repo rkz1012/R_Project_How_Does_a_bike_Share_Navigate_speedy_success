@@ -75,5 +75,4 @@ write.csv(clean_trip_final,file = "clean_trip_final_tableau.csv",row.names = FAL
 
 nrow(clean_trip_final)
 
-clean_trip_final %>% 
-  distinct(month)
+
